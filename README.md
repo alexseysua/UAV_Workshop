@@ -1,9 +1,5 @@
-# UAV_Workshop
-## For Korean Students
+# UAV_Workshop Tello
+
 
 **Jan 2024**
 
-- maintained Venki 
-
-Complete the survey @
-https://unlv.co1.qualtrics.com/jfe/form/SV_cwGbQ3M92nzgl4q
